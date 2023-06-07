@@ -1,8 +1,10 @@
 # Password-Generator
 
-## Link ->
+## Link -> https://hans-doderlein.github.io/Password-Generator/ 
 
 ## Screenshot
+<img width="605" alt="image" src="https://github.com/Hans-Doderlein/Password-Generator/assets/132940852/1835279b-29b2-4003-87b7-d80d09ff9feb">
+
 
 ## Description
 
